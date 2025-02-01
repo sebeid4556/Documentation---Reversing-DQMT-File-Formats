@@ -3,4 +3,4 @@
 
 The doc includes representations of data structures in C/C++.
 
-[See pdf.](Documentation - DQMT File Formats.pdf)
+([Documentation - DQMT File Formats.pdf](https://github.com/sebeid4556/Documentation---DQMT-File-Formats/blob/main/Documentation%20-%20DQMT%20File%20Formats.pdf))
